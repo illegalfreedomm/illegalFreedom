@@ -15,3 +15,17 @@ h2{
   margin-left: 33%;
   color:black;
 }
+
+button{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  margin-top: 25%;
+  height: 1cm;
+  width: 2cm;
+  border: solid 3px black;
+  font-size: 1.2rem;
+  font-weight: bold;
+  background-color: blueviolet;
+  color: white;
+  text-shadow: 2px 2px black;
+  margin-left: 33%;
+}

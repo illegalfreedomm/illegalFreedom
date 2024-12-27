@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <h1>Illegal Freedom</h1>
       <h2>(Coming soon)</h2>
+      <button>JOIN</button>
     </div>
   );
 }
